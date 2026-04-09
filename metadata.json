@@ -1,0 +1,5 @@
+{
+  "name": "Votex - Full Stack Voting Management System",
+  "description": "A comprehensive voting management system with real-time results, role-based access control, and secure candidate management.",
+  "requestFramePermissions": []
+}
